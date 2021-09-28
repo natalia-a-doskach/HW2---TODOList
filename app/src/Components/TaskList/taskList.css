@@ -1,0 +1,8 @@
+#listCont{
+    position: relative;
+    margin: 50px auto 100px auto;
+    border-color: black;
+    display: grid;
+    gap: 20px;
+  grid-template-columns: 500px 500px 500px;
+}

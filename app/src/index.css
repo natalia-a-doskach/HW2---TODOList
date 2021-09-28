@@ -1,0 +1,12 @@
+body {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+  background: #e2dedb;
+  color: #b3aca7;
+}
+
+MyTodoList{
+  height: 100%;
+}
