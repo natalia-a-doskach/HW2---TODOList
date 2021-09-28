@@ -19,10 +19,6 @@ handleAdd() {
   description: this.state.description
 };
 this.props.parentCallback(task);
-this.setState({
-  name: "",
-  description: "",
-});
  }
 
  updateName(name){
